@@ -1,4 +1,4 @@
-# Tini-Omni Evaluation Framework
+# Tini-Omni-Evaluation
 
 This repository serves as the evaluation framework for **[Tini-Omni](https://github.com/hypJean/Tini-Omni)** and is designed to be a versatile evaluation system for various Spoken Dialogue Models (SDMs).
 
